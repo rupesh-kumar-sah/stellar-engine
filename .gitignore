@@ -12,7 +12,6 @@ venv/*
 **/.pytest_cache
 **/.test.lock
 .idea
-.vscode
 .idx/dev.nix
 backend.tf
 backend-config.hcl
@@ -92,3 +91,4 @@ experimental/state/
 ato_artifacts/
 ato_artifacts_backup_*/
 system_inventory.json
+config.bat
